@@ -64,4 +64,5 @@ After getting the neuron expression, you can assign the corresponding symbolic e
 
 If you have any questions about this work, feel free to contract us: wangmeng22@stu.hit.edu.cn
 
-
+# License
+Licensed under the [MIT license](https://github.com/NewT123-WM/Task_based_neurons/blob/main/LICENSE). 
