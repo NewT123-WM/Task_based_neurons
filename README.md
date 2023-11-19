@@ -30,10 +30,15 @@ Datasets are collected from the scikit-learn package and the official website of
 
 # Requirements
 sympy
+
 numpy
+
 pandas  
+
 scikit-learn = 1.2.2
+
 pytorch = 1.13.1
 
 # How to Use
+Here we provide a set of synthetic data for display because the synthetic data has real expressions for inspection and comparison.
 
