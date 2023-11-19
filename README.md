@@ -29,6 +29,8 @@ Second, we test the superiority of task-based neurons relative to linear ones. W
 Datasets are collected from the scikit-learn package and the official website of OpenML.
 
 # Requirements
+h5py
+
 sympy
 
 numpy
