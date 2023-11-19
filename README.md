@@ -61,3 +61,6 @@ After getting the neuron expression, you can assign the corresponding symbolic e
 
 If you have any questions about this work, feel free to contract us: wangmeng22@stu.hit.edu.cn
 
+# L
+This code is modified from .
+
