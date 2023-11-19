@@ -48,6 +48,8 @@ Here we provide a set of synthetic data for display because the synthetic data h
   ```
   python regression.py
   ```
++ Note
+The code for symbolic regression is modified from [symbolic-regression-python](https://github.com/datarobot-community/symbolic-regression-python).
 
 After getting the neuron expression, you can assign the corresponding symbolic expression to the `expr` variable in `train.py`.
 
@@ -61,6 +63,4 @@ After getting the neuron expression, you can assign the corresponding symbolic e
 
 If you have any questions about this work, feel free to contract us: wangmeng22@stu.hit.edu.cn
 
-# L
-This code is modified from .
 
