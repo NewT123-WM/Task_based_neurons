@@ -28,4 +28,12 @@ Second, we test the superiority of task-based neurons relative to linear ones. W
 # Dataset
 Datasets are collected from the scikit-learn package and the official website of OpenML.
 
+# Requirements
+sympy
+numpy
+pandas  
+scikit-learn = 1.2.2
+pytorch = 1.13.1
+
+# How to Use
 
