@@ -20,4 +20,5 @@ observed in human brains, leading to the proposal of novel artificial neuron des
 
 To further illustrate the necessity and effectiveness of using symbolic regression to generate neurons for different tasks, we perform experiments on 20 public datasets: 10 for classification and 10 for regression.
 
-We first perform the vectorized symbolic regression on the normalized dataset. The relevant information regarding these 20 datasets, and the regression results are shown in Table .
+We first perform the vectorized symbolic regression on the normalized dataset. The relevant information regarding these 20 datasets, and the regression results are shown in Table 5.
+![image](https://github.com/NewT123-WM/Task_based_neurons/blob/main/table5.png)
