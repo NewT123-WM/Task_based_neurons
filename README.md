@@ -59,5 +59,5 @@ After getting the neuron expression, you can assign the corresponding symbolic e
 
 # Citation
 
-If you have any questions about this work, feel free to contract us: wagmeng22@stu.hit.edu.cn
+If you have any questions about this work, feel free to contract us: wangmeng22@stu.hit.edu.cn
 
