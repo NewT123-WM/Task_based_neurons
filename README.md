@@ -43,4 +43,19 @@ pytorch = 1.13.1
 
 # How to Use
 Here we provide a set of synthetic data for display because the synthetic data has real expressions for inspection and comparison.
++ Get a symbolic regression expression.
+
+  ```
+  python regression.py
+  ```
+
+After getting the neuron expression, you can assign the corresponding symbolic expression to the `expr` variable in `train.py`.
+
++ Perform network training.
+
+  ```
+  python train_set_1.py
+  ```
+
+
 
