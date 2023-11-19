@@ -57,5 +57,7 @@ After getting the neuron expression, you can assign the corresponding symbolic e
   python train_set_1.py
   ```
 
+# Citation
 
+If you have any questions about this work, feel free to contract us: wagmeng22@stu.hit.edu.cn
 
